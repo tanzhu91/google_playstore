@@ -1,4 +1,4 @@
-## Google playstore apps analysis ETL and EDA
+## Google playstore apps analysis, ETL and EDA
 
 
 Columns Description:
